@@ -1,8 +1,8 @@
 {
   "name": "kert-react-app",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://benthurzo.github.io/benthurzo.github.io",
+  "private": false,
+  "homepage": "https://benthurzo.github.io/",
   "dependencies": {
     "@formspree/react": "^2.5.1",
     "@testing-library/jest-dom": "^5.17.0",
